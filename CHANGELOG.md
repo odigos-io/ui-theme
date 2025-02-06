@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.3...ui-theme-v0.0.4) (2025-02-06)
+
+
+### Bug Fixes
+
+* peer deps ([5bbe2a0](https://github.com/odigos-io/ui-theme/commit/5bbe2a0fa16f810cba84f0d9b8f76edd4f22eeaa))
+
 ## [0.0.3](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.2...ui-theme-v0.0.3) (2025-02-06)
 
 
