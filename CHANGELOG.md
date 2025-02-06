@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.3](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.2...ui-theme-v0.0.3) (2025-02-06)
+
+
+### Bug Fixes
+
+* bump deps ([68fcc21](https://github.com/odigos-io/ui-theme/commit/68fcc2110918c0c4c59012a309395c0ed9f8a25d))
+* remove from npm ignore ([e2a43b3](https://github.com/odigos-io/ui-theme/commit/e2a43b37a9b61185aa2486441eb1ac48931da1b4))
+
 ## [0.0.2](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.1...ui-theme-v0.0.2) (2025-02-03)
 
 
