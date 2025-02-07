@@ -12,7 +12,7 @@ const Theme = {
   ToggleDarkMode,
   animations,
   opacity,
-  styled,
 }
 
 export default Theme
+export { styled }
