@@ -7,15 +7,7 @@ import { ThemeProvider } from 'styled-components'
 import '../styles/globals.css'
 
 export const Provider: FC<PropsWithChildren> = ({ children }) => {
-  const { darkMode, setDarkMode } = useDarkMode()
-
-  useEffect(() => {
-    // load stored value from localStorage
-    if (typeof window !== 'undefined') {
-      const lsValue = localStorage.getItem('darkMode')
-      if (!!lsValue) setDarkMode(lsValue == 'true')
-    }
-  }, [])
+  const { darkMode } = useDarkMode()
 
   useEffect(() => {
     // store new value in localStorage

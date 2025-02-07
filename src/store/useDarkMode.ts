@@ -9,6 +9,6 @@ export interface DarkModeStateSetters {
 }
 
 export const useDarkMode = create<DarkModeState & DarkModeStateSetters>((set) => ({
-  darkMode: true,
+  darkMode: [undefined, null, 'true'].includes(localStorage.getItem('darkMode')),
   setDarkMode: (bool) => set({ darkMode: bool }),
 }))
