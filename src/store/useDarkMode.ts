@@ -17,7 +17,7 @@ export const useDarkMode = create<DarkModeState & DarkModeStateSetters>()(
     }),
     {
       name: 'odigos-dark-mode',
-      storage: createJSONStorage(() => localStorage),
+      storage: typeof window !== 'undefined' ? createJSONStorage(() => localStorage) : undefined,
     }
   )
 )
