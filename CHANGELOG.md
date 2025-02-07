@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.10](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.9...ui-theme-v0.0.10) (2025-02-07)
+
+
+### Bug Fixes
+
+* export styled seperate from default ([1a716bc](https://github.com/odigos-io/ui-theme/commit/1a716bcfec687c6c490f786c66211f60b69d6742))
+
 ## [0.0.9](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.8...ui-theme-v0.0.9) (2025-02-07)
 
 
