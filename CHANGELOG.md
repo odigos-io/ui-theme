@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.0.11](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.10...ui-theme-v0.0.11) (2025-02-07)
+
+
+### Features
+
+* zustand middleware ([b7fea20](https://github.com/odigos-io/ui-theme/commit/b7fea200611a2b8d45af3567f67ba9c62a67cfcb))
+
+
+### Bug Fixes
+
+* add 'use client' to provider and toggler ([12d2fdc](https://github.com/odigos-io/ui-theme/commit/12d2fdcda824585f5588bd9b6ebbe6b7539567e4))
+* add 'use client' to store ([002f372](https://github.com/odigos-io/ui-theme/commit/002f37236fabda0b90b6fb86158ead658fd683e7))
+* lazy load zustand storage ([e39c709](https://github.com/odigos-io/ui-theme/commit/e39c70972e71a4d89f90f35e97abee58a799ce27))
+
 ## [0.0.10](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.9...ui-theme-v0.0.10) (2025-02-07)
 
 
