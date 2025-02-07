@@ -1,5 +1,3 @@
-'use client'
-
 import React, { useEffect, type FC, type PropsWithChildren } from 'react'
 import { useDarkMode } from '../store'
 import { getTheme, type ITheme } from '../styles'
