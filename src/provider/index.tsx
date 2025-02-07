@@ -1,3 +1,5 @@
+'use client'
+
 import React, { type FC, type PropsWithChildren } from 'react'
 import { getTheme } from '../styles'
 import { useDarkMode } from '../store'

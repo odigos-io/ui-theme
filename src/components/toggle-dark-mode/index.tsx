@@ -1,3 +1,5 @@
+'use client'
+
 import React, { type FC } from 'react'
 import styled from 'styled-components'
 import { useDarkMode } from '../../store'
