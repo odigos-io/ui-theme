@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.0.12](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.11...ui-theme-v0.0.12) (2025-02-07)
+
+
+### Features
+
+* add majestic_blue_soft color to theme ([60fef81](https://github.com/odigos-io/ui-theme/commit/60fef812ac208c18e0b93b6836b53821e11408e0))
+* add StyledComponentsRegistry to provider ([1bc2aba](https://github.com/odigos-io/ui-theme/commit/1bc2abac07d5bbc80435cbd855c4bd16a324d67b))
+
+
+### Bug Fixes
+
+* undo last change ([d72fdf6](https://github.com/odigos-io/ui-theme/commit/d72fdf6929fa21f6da8ce74fae1a63abb9b09ea6))
+
 ## [0.0.11](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.10...ui-theme-v0.0.11) (2025-02-07)
 
 
