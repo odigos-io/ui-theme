@@ -33,4 +33,5 @@ const Provider: FC<PropsWithChildren> = ({ children }) => {
   )
 }
 
+// default to allow dynamic import
 export default Provider
