@@ -1,6 +1,6 @@
 import { type ITheme } from './styles'
 import { Provider } from './provider'
-import { useDarkMode } from './context'
+import { useDarkMode } from './store'
 import { useTheme } from 'styled-components'
 import { animations, opacity } from './styles'
 

@@ -1,13 +1,28 @@
-import React, { type FC, type PropsWithChildren } from 'react'
-import '../styles/globals.css'
-import { ThemeProvider } from 'styled-components'
+'use client'
+
+import React, { useEffect, type FC, type PropsWithChildren } from 'react'
+import { useDarkMode } from '../store'
 import { getTheme, type ITheme } from '../styles'
-import { DarkModeConsumer, DarkModeProvider } from '../context'
+import { ThemeProvider } from 'styled-components'
+import '../styles/globals.css'
 
 export const Provider: FC<PropsWithChildren> = ({ children }) => {
-  return (
-    <DarkModeProvider>
-      <DarkModeConsumer>{({ darkMode }) => <ThemeProvider theme={getTheme(darkMode) as ITheme}>{children}</ThemeProvider>}</DarkModeConsumer>
-    </DarkModeProvider>
-  )
+  const { darkMode, setDarkMode } = useDarkMode()
+
+  useEffect(() => {
+    // load stored value from localStorage
+    if (typeof window !== 'undefined') {
+      const lsValue = localStorage.getItem('darkMode')
+      if (!!lsValue) setDarkMode(lsValue == 'true')
+    }
+  }, [])
+
+  useEffect(() => {
+    // store new value in localStorage
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('darkMode', JSON.stringify(darkMode))
+    }
+  }, [darkMode])
+
+  return <ThemeProvider theme={getTheme(darkMode) as ITheme}>{children}</ThemeProvider>
 }
