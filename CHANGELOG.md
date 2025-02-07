@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.8](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.7...ui-theme-v0.0.8) (2025-02-07)
+
+
+### Features
+
+* add toggle-dark-mode component ([0799063](https://github.com/odigos-io/ui-theme/commit/07990639004a1c6394092fa6d9b87d99f97b4d2c))
+
 ## [0.0.7](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.6...ui-theme-v0.0.7) (2025-02-07)
 
 
