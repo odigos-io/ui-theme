@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.6](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.5...ui-theme-v0.0.6) (2025-02-07)
+
+
+### Bug Fixes
+
+* useDarkMode as store, not context ([a28696d](https://github.com/odigos-io/ui-theme/commit/a28696dd4c44b5ff866cdc8a79f7ad52e7b5039a))
+
 ## [0.0.5](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.4...ui-theme-v0.0.5) (2025-02-07)
 
 
