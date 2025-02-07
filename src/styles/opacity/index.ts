@@ -1,4 +1,4 @@
-export const hexPercent = {
+export const hex = {
   '100': 'FF',
   '099': 'FC',
   '098': 'FA',
