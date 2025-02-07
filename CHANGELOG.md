@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.5](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.4...ui-theme-v0.0.5) (2025-02-07)
+
+
+### Features
+
+* refactor lib, and include dark mode context ([54d7bb9](https://github.com/odigos-io/ui-theme/commit/54d7bb97754e572890d69c3ffb595fc98d0dc21d))
+
 ## [0.0.4](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.3...ui-theme-v0.0.4) (2025-02-06)
 
 
