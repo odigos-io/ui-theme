@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.7](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.6...ui-theme-v0.0.7) (2025-02-07)
+
+
+### Bug Fixes
+
+* double theme render on light mode ([373b29a](https://github.com/odigos-io/ui-theme/commit/373b29a8493f9967c5717663e277c6c4a48251dc))
+
 ## [0.0.6](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.5...ui-theme-v0.0.6) (2025-02-07)
 
 
