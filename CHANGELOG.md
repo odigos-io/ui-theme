@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.9](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.8...ui-theme-v0.0.9) (2025-02-07)
+
+
+### Features
+
+* export styled ([eff57af](https://github.com/odigos-io/ui-theme/commit/eff57af173fc457f17951943f2e3908dcb9eefa2))
+
+
+### Bug Fixes
+
+* window not defined ([4175890](https://github.com/odigos-io/ui-theme/commit/41758908316e12f0c4c307e2b29337e5116f8680))
+
 ## [0.0.8](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.7...ui-theme-v0.0.8) (2025-02-07)
 
 
