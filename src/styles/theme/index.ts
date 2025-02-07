@@ -2,6 +2,7 @@ const baseTheme = {
   colors: {
     // Custom Colors
     majestic_blue: '#444AD9',
+    majestic_blue_soft: '#6C7AE8',
     orange_og: '#FE9239',
     orange_soft: '#FFB160',
     dark_red: '#802828',
