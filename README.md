@@ -32,7 +32,7 @@ const AppProviders = () => {
 }
 ```
 
-You can then access one of: `useTheme`, `useDarkMode`, `ToggleDarkMode`, `animations`, `opacity` from the Theme object:
+You can then access one of: `useTheme`, `useDarkMode`, `ToggleDarkMode`, `animations`, `opacity`, and `styled` (styled-components) from the Theme object:
 
 ```tsx
 import Theme from '@odigos/ui-theme'
