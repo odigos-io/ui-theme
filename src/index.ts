@@ -1,4 +1,4 @@
-import styled, { useTheme } from 'styled-components'
+import styled, { css, keyframes, useTheme } from 'styled-components'
 import { type ITheme } from './styles'
 import { Provider } from './provider'
 import { useDarkMode } from './store'
@@ -15,4 +15,4 @@ const Theme = {
 }
 
 export default Theme
-export { styled }
+export { styled, css, keyframes }
