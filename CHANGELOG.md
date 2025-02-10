@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.16](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.15...ui-theme-v0.0.16) (2025-02-10)
+
+
+### Features
+
+* undo export of styled components ([9afe250](https://github.com/odigos-io/ui-theme/commit/9afe250141b706294482b08907e9e848b9a59194))
+
 ## [0.0.15](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.14...ui-theme-v0.0.15) (2025-02-10)
 
 
