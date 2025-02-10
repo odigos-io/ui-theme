@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.15](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.14...ui-theme-v0.0.15) (2025-02-10)
+
+
+### Bug Fixes
+
+* styled exports ([8c4ac5e](https://github.com/odigos-io/ui-theme/commit/8c4ac5eec4b17f3ad69650705b7bb64be273bd9f))
+
 ## [0.0.14](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.13...ui-theme-v0.0.14) (2025-02-10)
 
 
