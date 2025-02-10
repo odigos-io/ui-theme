@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.13](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.12...ui-theme-v0.0.13) (2025-02-10)
+
+
+### Features
+
+* export css and keyframes from styled-components ([cd63120](https://github.com/odigos-io/ui-theme/commit/cd63120d38634c8e56cbc3a7228fe24be3dd056e))
+
 ## [0.0.12](https://github.com/odigos-io/ui-theme/compare/ui-theme-v0.0.11...ui-theme-v0.0.12) (2025-02-07)
 
 
